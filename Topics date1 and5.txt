@@ -1,0 +1,19 @@
+java preoject and setup eclipse                                                01-10-2021
+main method
+how to run java using command line and jde
+what is class and object
+variable declaration and intialization
+object creation using variables
+conditions if,ifelse,,switch ,ternary loops for and while
+
+
+
+                                                                                            05-10-2021
+1.constructor
+default
+parameterized
+2.local variable
+3.instance variable
+4.static variable
+5.garbage collector
+6.object count
